@@ -30,18 +30,10 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=faresabe&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=faresabe&theme=gruvbox&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faresabe&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B1FA2&center=true&vCenter=true&width=380&lines=Last+seen+June+10,+2025" alt="Last seen animated" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B1FA2&center=true&vCenter=true&width=380&lines=Last+seen+June+28,+2025" alt="Last seen animated" />
 </p>
 
 
