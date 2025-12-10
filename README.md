@@ -33,7 +33,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B1FA2&center=true&vCenter=true&width=380&lines=Last+seen+June+28,+2025" alt="Last seen animated" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B1FA2&center=true&vCenter=true&width=380&lines=Last+seen+Dec+10,+2025" alt="Last seen animated" />
 </p>
 
 
