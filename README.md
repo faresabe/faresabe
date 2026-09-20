@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer | Python developer| AI Automation </h3>
   
 ---  
- 
+  
 ## 🌐 Socials
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fares-abenet)  
