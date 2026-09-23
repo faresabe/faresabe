@@ -3,7 +3,7 @@
 <h1 align="center" style="font-size: 3em;">I’m Fares 👋</h1>
 <h3 align="center">Full Stack Developer | Python developer| AI Automation </h3>
     
----   
+---    
   
 ## 🌐 Socials
  
