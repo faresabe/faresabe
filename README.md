@@ -12,7 +12,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Immediate-Fuel-4717/)
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=birukG09&style=flat-square&color=green)
 
 ---
 
